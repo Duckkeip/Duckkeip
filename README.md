@@ -9,9 +9,6 @@
 
 ---
 
-<table align="center">
-<tr>
-<td>
 
 ### 💫 About Me
 
@@ -20,12 +17,7 @@
 - I enjoy building projects to improve my skills and learn new things  
 - Fun fact (VN): **"Niệm của tôi là hệ biến hóa"**
 
-</td>
-<td>
- 
-</td>
-</tr>
-</table>
+
 ---
 
 ## 🧩 Tech Stack
