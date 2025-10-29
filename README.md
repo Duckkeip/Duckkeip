@@ -1,19 +1,31 @@
 <!-- Soft Cyber Anime • Neon Cyan • by ChatGPT (for Duckkeip) -->
 
 <!-- Header -->
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=200&section=header&text=Welcome%20to%20My%20GitHub%20&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
 
-## 💫 About Me
+<table align="center">
+<tr>
+<td>
+
+### 💫 About Me
 
 - I'm a student at **Vietnam Aviation Academy**  
 - Hardworking and passionate about becoming a **Fullstack Developer**  
 - I enjoy building projects to improve my skills and learn new things  
 - Fun fact (VN): **"Niệm của tôi là hệ biến hóa"**
 
+</td>
+<td>
+  <img src="https://github.com/Duckkeip.png" alt="Avatar" width="120" style="border-radius:50%;" />
+</td>
+</tr>
+</table>
 ---
 
 ## 🧩 Tech Stack
