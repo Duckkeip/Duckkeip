@@ -22,7 +22,7 @@
 
 </td>
 <td>
-  <img src="https://github.com/Duckkeip.png" alt="Avatar" width="120" style="border-radius:50%;" />
+ 
 </td>
 </tr>
 </table>
