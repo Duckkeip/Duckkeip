@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=200&section=header&text=Welcome%20to%20My%20GitHub%20👾&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=200&section=header&text=Welcome%20to%20My%20GitHub%20&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Duckkeip&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Duckkeip&theme=tokyonight&hide_border=true" height="150" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duckkeip&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
