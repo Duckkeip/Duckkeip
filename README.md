@@ -30,10 +30,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Duckkeip&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Duckkeip&theme=tokyonight&hide_border=true)
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duckkeip&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Duckkeip&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duckkeip&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
