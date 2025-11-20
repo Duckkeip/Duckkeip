@@ -15,7 +15,7 @@
 - I'm a student at **Vietnam Aviation Academy**  
 - Hardworking and passionate about becoming a **Fullstack Developer**  
 - I enjoy building projects to improve my skills and learn new things  
-- Fun fact (VN): **"Niệm của tôi là hệ biến hóa"**
+- Fun fact (VN): **"Làm người bình thường "**
 
 
 ---
